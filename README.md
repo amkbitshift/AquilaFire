@@ -73,9 +73,6 @@ Feature	Preview
 Dashboard	screenshots/dashboard.png
 Smoke Detection	screenshots/detection.png
 Fire Spread Simulation	screenshots/spread_simulation.png
-<img width="1920" height="1020" alt="Screenshot 2025-12-26 111350" src="https://github.com/user-attachments/assets/2125b581-10e8-4fcf-9754-2941cd702c7e" />
-<img width="1920" height="1020" alt="Screenshot 2025-12-26 111506" src="https://github.com/user-attachments/assets/bfa7c652-93c1-4d32-be41-ab96977a3a0f" />
-<img width="1920" height="1020" alt="Screenshot 2025-12-26 111415" src="https://github.com/user-attachments/assets/c2562041-dd1d-42fa-ab3d-43c28326bbc9" />
 
 🧠 Hackathon Scope Clarification
 
@@ -138,4 +135,7 @@ streamlit
 opencv-python
 numpy
 matplotlib
-
+---
+<img width="1920" height="1020" alt="Screenshot 2025-12-26 111350" src="https://github.com/user-attachments/assets/2125b581-10e8-4fcf-9754-2941cd702c7e" />
+<img width="1920" height="1020" alt="Screenshot 2025-12-26 111506" src="https://github.com/user-attachments/assets/bfa7c652-93c1-4d32-be41-ab96977a3a0f" />
+<img width="1920" height="1020" alt="Screenshot 2025-12-26 111415" src="https://github.com/user-attachments/assets/c2562041-dd1d-42fa-ab3d-43c28326bbc9" />
